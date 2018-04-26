@@ -1,0 +1,6 @@
+C:\Users\Tim\source\repos\Lab4WK1\Lab4WK1\bin\Debug\Lab4WK1.exe.config
+C:\Users\Tim\source\repos\Lab4WK1\Lab4WK1\bin\Debug\Lab4WK1.exe
+C:\Users\Tim\source\repos\Lab4WK1\Lab4WK1\bin\Debug\Lab4WK1.pdb
+C:\Users\Tim\source\repos\Lab4WK1\Lab4WK1\obj\Debug\Lab4WK1.csproj.CoreCompileInputs.cache
+C:\Users\Tim\source\repos\Lab4WK1\Lab4WK1\obj\Debug\Lab4WK1.exe
+C:\Users\Tim\source\repos\Lab4WK1\Lab4WK1\obj\Debug\Lab4WK1.pdb
